@@ -1,0 +1,8 @@
+*.pem
+ssh_config_per_connect.txt
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfvars.json
