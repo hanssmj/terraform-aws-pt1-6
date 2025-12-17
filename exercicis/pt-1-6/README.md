@@ -22,7 +22,9 @@ Probar conexión ssh private-1
 
 Destrucción:
 
-Ejecutar terraform destroy pasando allowed_ip (y private_instance_count si se cambió)
+Ejecutar terraform destroy 
+
 
 Topologia:
+
 ![Descripción de la imagen](assets/Topologia.png)
